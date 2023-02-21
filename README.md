@@ -8,7 +8,7 @@ npm i
 ```
 
 ## Usage
-* Open src/index.js
+* Open main/index.js
 * Update the two arguments in for SignPDF class (if you do not want to use the test ones)
 * create a folder called `exports` in the root of the project
 * Then run this command in your terminal
